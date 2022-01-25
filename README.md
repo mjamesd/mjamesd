@@ -11,19 +11,16 @@ During university, I took on a few small clients, contracted with a development 
 I am seeking employment as a web developer – frontend, back-end, or full-stack. Please view [my portfolio](https://mjamesd.github.io/portfolio/) (last updated November 2021) for examples of my past and current projects. I look forward to working with you!
 
 ## Currently Working On...
-### [TuneSpace](https://mjamesd.github.io/crispy-happiness/)
-![TuneSpace Logo](./assets/img/TuneSpace.png)
-We all love music. Music is an expression of culture. It tells stories, stirs emotions, and shares ideas of society. It defines our lives and brings communities together. That’s what we intend to do here: bring people together in one place with music.
+### [Pressed Words](https://mjamesd.github.io/pressed-words/)
+![Pressed Words Screen shot](./assets/img/pressed-words.png)
+I developed a blogging web app using Express, Handlebars, jQuery, Materialize, and MySQL. Visitors can register as users to start pressing words!
 
-> _Enter TuneSpace_\
->_A place for fans. A place for music._
+> _Press words_\
+>_Squeeze thoughts_
 
-TuneSpace has been created as a guide, a central hub, where people from all over the world can come together and explore their favorite artists or discover their new musical obsession.  Building a community for everyone that loves music. TuneSpace provides a wealth of information that the community can explore. Full artist biographies, discographies, informative deep dives about your favorite songs including lyrics and videos.
+Pressed Words is a work in progress, but it has full functionality and guards against Javascript code injection and SQL injection.
 
->Exploring. Sharing. Interacting. TuneSpace wants you to be part of our community.
-
-- 👯 Version 1.0 was released on Oct. 30th, 2021.
-- 🌱 Development is ongoing to build on our success.
+- 👯 Version 1.0 was released on Jan. 22nd, 2022.
 
 ## Currently Learning...
 📚 I am enrolled in a full-stack web development bootcamp through the University of Washington. I currently have an A+ grade and am on track to complete the program in March 2022.
