@@ -8,7 +8,7 @@ I researched and procured components to build a PC from scratch when I was 14. I
 
 During university, I took on a few small clients, contracted with a development firm, and worked at two small businesses as a web developer. I graduated and fell out of the development field to pursue other passions. Now I'm working towards a certificate in full-stack web development through the University of Washington and am _very_ excited to pursue this career again.
 
-I am seeking employment as a web developer – frontend, back-end, or full-stack. Please view [my portfolio](https://mjamesd.github.io/portfolio/) (last updated November 2021) for examples of my past and current projects. I look forward to working with you!
+I am seeking employment as a web developer – frontend, back-end, or full-stack. Please view [my portfolio](https://mjamesd.github.io/portfolio/) (last updated January 2022) for examples of my past and current projects. I look forward to working with you!
 
 ## Currently Working On...
 ### [Pressed Words](https://mjamesd.github.io/pressed-words/)
