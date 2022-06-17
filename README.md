@@ -8,7 +8,7 @@ I researched and procured components to build a PC from scratch when I was 14. I
 
 During university, I took on a few small clients, contracted with a development firm, and worked at two small businesses as a web developer. I graduated and fell out of the development field to pursue other passions. Now I've earned a certificate in full-stack web development through the University of Washington and am _very_ excited to pursue this career again.
 
-I am seeking employment as a web developer – front end, back end, or full stack. Please view [my portfolio](http://www.markdrummond.me) (last updated January 2022) for examples of my past and current projects. I look forward to working with you!
+I am seeking employment as a web developer – front end, back end, or full stack. Please view [my portfolio](http://www.markdrummond.me) (last updated April 2022) for examples of my past and current projects. I look forward to working with you!
 
 ## Currently Working On...
 ### [Total Quest](https://www.totalquest.us)
@@ -30,7 +30,7 @@ My contributions included setting up the the Mongo database; writing Mongoose OD
 
 ---
 
-### [Pressed Words](https://mjamesd.github.io/pressed-words/)
+### [Pressed Words](http://blog.markdrummond.me/)
 ![Pressed Words Screen shot](./assets/img/pressed-words.png)
 I developed a blogging web app using Node, Express, Handlebars, jQuery, Materialize, and MySQL. Visitors can register as users to start pressing words!
 
