@@ -1,4 +1,4 @@
-# Mark Drummond, ✨full Stack Web Developer✨
+# Mark Drummond, ✨Full Stack Web Developer✨
 
 ## Web Developer for Hire
 I'm a full stack web developer with independent, freelance, and team development experience. I've created single-page apps, mobile-responsive web apps, WordPress sites, Drupal sites, full-stack React apps with the MERN stack with GraphQL, and full-stack PHP MVC CMSs for clients big and small.
