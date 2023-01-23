@@ -1,19 +1,21 @@
-# Mark Drummond, ✨Full-Stack Web Developer✨
+# Mark Drummond, ✨full Stack Web Developer✨
 
 ## Web Developer for Hire
-I'm a full-stack web developer with independent, freelance, and team development experience. I've created single-page apps, mobile-responsive web apps, WordPress sites, Drupal sites, full-stack React apps with the MERN stack, and full-stack PHP MVC CMSs for clients big and small. I want to work with your farmer's market stand, small business, university department, or development firm to create a meaningful product that meets your customers' needs, as well as your own. Contact me today to discuss your next website!
+I'm a full stack web developer with independent, freelance, and team development experience. I've created single-page apps, mobile-responsive web apps, WordPress sites, Drupal sites, full-stack React apps with the MERN stack with GraphQL, and full-stack PHP MVC CMSs for clients big and small.
+
+I have been passionate about web development since I was a teenager. I began teaching myself to code when I was 15 and was proficient in C, Bash, HTML, CSS, PHP & MySQL by the time I graduated high school. In college, I took on a few small clients and worked as a web developer at two small businesses. When I moved to Seattle, I established a career in and passion for public health but always missed the creativity and problem solving of web development. As soon as I had the resources, I pursued a certificate in full stack web development through the University of Washington. Now that I’ve earned the certificate, I am excited to pursue this career again. I am seeking employment as a front end, back end, or full stack web developer and look forward to working with you. Please view [my portfolio](http://www.markdrummond.me) (last updated December 2022) for examples of my past and current projects. I look forward to working with you!
 
 ## About Me
 I researched and procured components to build a PC from scratch when I was 14. I taught myself Debian Linux system administration on the command line, then began teaching myself to code. I then taught myself Apache configuration and ran a web and email server out of my bedroom in my parents' house. I learned HTML, CSS, a little JavaScript, and a lot of PHP from tutorials before YouTube was created. I tested myself by building a website that was basically Facebook before Facebook was created. My friends and I would post updates and comment on each other's posts. It supported infinitely-nested comments, image uploads, and user profiles.
 
-During university, I took on a few small clients, contracted with a development firm, and worked at two small businesses as a web developer. I graduated and fell out of the development field to pursue other passions. Now I've earned a certificate in full-stack web development through the University of Washington and am _very_ excited to pursue this career again.
+During university, I took on a few small clients, contracted with a development firm, and worked at two small businesses as a web developer. I graduated and fell out of the development field to pursue other passions. Now I've earned a certificate in full stack web development through the University of Washington and am _very_ excited to pursue this career again.
 
-I am seeking employment as a web developer – front end, back end, or full stack. Please view [my portfolio](http://www.markdrummond.me) (last updated April 2022) for examples of my past and current projects. I look forward to working with you!
+I am seeking employment as a web developer – front end, back end, or full stack. Contact me today to discuss your next website!
 
 ## Currently Working On...
 ### [Total Quest](https://www.totalquest.us)
 ![Total Quest Logo](./assets/img/total-quest.png)
-I developed Total Quest as a member of a development team as the final project for my full stack web development bootcamp through the University of Washington. I came up with the idea and successfully pitched it to my team, even though it was much more involved than was required by the project. We developed the web app with the MERN (MongoDB, Express, React, & Node) stack using the Material UI library and GraphQL. We were the only group of students to deploy their project to a branded domain.
+I developed Total Quest as a member of a development team as the final project for my full stack web development certificate program through the University of Washington. I came up with the idea and successfully pitched it to my team, even though it was much more involved than was required by the project. We developed the web app with the MERN (MongoDB, Express, React, & Node) stack using the Material UI library and GraphQL. We were the only group of students to deploy their project to a branded domain.
 
 > Total Quest is an interactive web app in which users complete scavenger hunts by solving clues. When they find the item or location, the user finds a QR code which, when scanned, directs the user to the app which earns them points and celebrates their victories with confetti!
 >
@@ -45,7 +47,7 @@ Pressed Words is a work in progress, but it has full functionality and guards ag
 
 ### [TuneSpace](https://mjamesd.github.io/crispy-happiness/)
 ![TuneSpace Logo](./assets/img/TuneSpace.png)
-I developed TuneSpace in a team setting in my full stack web development bootcamp through the University of Washington. We used multiple APIs to gather information into one place and display it in an easy-to-use website.
+I developed TuneSpace in a team setting in my full stack web development certificate program through the University of Washington. We used multiple APIs to gather information into one place and display it in an easy-to-use website.
 
 >We all love music. Music is an expression of culture. It tells stories, stirs emotions, and shares ideas of society. It defines our lives and brings communities together. That’s what we intend to do here: bring people together in one place with music.
 >
@@ -60,7 +62,7 @@ My contributions included research APIs by reading their documentation, writing 
 - 👯 Version 1.0 was released on Oct. 30th, 2021.
 
 ## Currently Learning...
- 🎉 I recently completed a full-stack web development bootcamp through the University of Washington. I earned an A+ grade.
+ 🎉 I recently completed a full stack web development certificate program through the University of Washington. I earned an A+ grade.
 
 📚 I am now independently learning more about React, teaching myself TypeScript, and reviewing coding algorithms in Javascript.
 
