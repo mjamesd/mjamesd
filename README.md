@@ -14,8 +14,7 @@ I am seeking employment as a web developer – front end, back end, or full stac
 
 ## Currently Working On...
 ### [Total Quest](https://www.totalquest.us)
-![Total Quest Logo](./assets/img/total-quest.png)
-
+![Total Quest Logo](./assets/img/total-quest.png)\
 I developed Total Quest as a member of a development team as the final project for my full stack web development certificate program through the University of Washington. I came up with the idea and successfully pitched it to my team, even though it was much more involved than was required by the project. We developed the web app with the MERN (MongoDB, Express, React, & Node) stack using the Material UI library and GraphQL. We were the only group of students to deploy their project to a branded domain.
 
 > Total Quest is an interactive web app in which users complete scavenger hunts by solving clues. When they find the item or location, the user finds a QR code which, when scanned, directs the user to the app which earns them points and celebrates their victories with confetti!
