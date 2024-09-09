@@ -1,7 +1,7 @@
 # Mark Drummond, ✨Software Engineer and Full Stack Web Developer✨
 
 ## Current Role: Software Engineer
-I am a Software Engineer for the CASCADIA Study at the University of Washington. I supplement REDCap functionality with PHP code through its API to ensure a smooth and sane digital experience of participants in clinical trials and research studies as well as data analysts and principal investigators. I maintain and update study participant and specimen tracking dashboards. I consult on technical feasibility of projects and implementation timelines.
+I am a Software Engineer for the CASCADIA Study at the University of Washington. I supplement REDCap functionality with PHP code through its API to ensure a smooth and sane digital experience of participants in clinical trials and research studies as well as data analysts and principal investigators. I maintain and update study participant and specimen tracking dashboards. I consult on technical feasibility of projects and implementation timelines. I build REDCap projects that utilize its advanced features. I push REDCap's boundaries while balancing study participants' user experience with the needs of research staff, lab scientists, data analysts, and funders. I set up ETL pipelines, automate study processes, and create self-serve websites for study staff to print barcodes, perform QC, produce datasets, and present reports.
 
 ## Web Developer for Hire
 I'm a full stack web developer with independent, freelance, and team development experience. I've created single-page apps, mobile-responsive web apps, WordPress sites, Drupal sites, full-stack React apps with the MERN stack with GraphQL, and full-stack PHP MVC CMSs for clients big and small.
